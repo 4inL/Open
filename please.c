@@ -12,4 +12,6 @@ void main(){
   printf("6.2");
   printf("6.3");
   printf("6.4");
+  printf("6.5");
+
 }
